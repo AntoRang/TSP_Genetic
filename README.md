@@ -1,4 +1,4 @@
-#TSP genetic algorithm
+# TSP genetic algorithm
 Sistemas Inteligentes: Mini-Examen 3
 
 Integrantes:
